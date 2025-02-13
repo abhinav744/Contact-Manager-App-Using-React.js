@@ -24,11 +24,7 @@ Backend (Optional): Node.js, Express.js, MongoDB (if applicable)
 
 📁 Project Structure
 
-bash
 
-Copy
-
-Edit
 
 /Contact-Manager-App-Using-React.js
 
@@ -58,11 +54,6 @@ Clone the repository
 
 
 
-bash
-
-Copy
-
-Edit
 
 git clone https://github.com/abhinav744/Contact-Manager-App-Using-React.js.git
 
@@ -72,11 +63,7 @@ Install dependencies
 
 
 
-bash
 
-Copy
-
-Edit
 
 npm install
 
@@ -84,11 +71,7 @@ Start the development server
 
 
 
-bash
 
-Copy
-
-Edit
 
 npm start
 
