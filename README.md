@@ -1,8 +1,8 @@
-📞 Contact Manager App (React.js)
+# 📞 Contact Manager App (React.js)
 
 This is a React.js-based Contact Manager App that allows users to add, edit, delete, and manage contacts efficiently.
 
-🚀 Features
+## 🚀 Features
 
 📋 Add, update, and delete contacts
 
@@ -12,7 +12,7 @@ This is a React.js-based Contact Manager App that allows users to add, edit, del
 
 📱 Responsive design
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend: React.js, React Hooks, Context API
 
@@ -22,7 +22,7 @@ Styling: CSS, Bootstrap/Tailwind
 
 Backend (Optional): Node.js, Express.js, MongoDB (if applicable)
 
-📁 Project Structure
+## 📁 Project Structure
 
 
 
@@ -48,9 +48,9 @@ Backend (Optional): Node.js, Express.js, MongoDB (if applicable)
 
 │── README.md              # Documentation
 
-🚀 Installation & Setup
+## 🚀 Installation & Setup
 
-Clone the repository
+### Clone the repository
 
 
 
@@ -59,7 +59,7 @@ git clone https://github.com/abhinav744/Contact-Manager-App-Using-React.js.git
 
 cd Contact-Manager-App-Using-React.js
 
-Install dependencies
+### Install dependencies
 
 
 
@@ -67,7 +67,7 @@ Install dependencies
 
 npm install
 
-Start the development server
+### Start the development server
 
 
 
@@ -79,7 +79,7 @@ The app should now be running at http://localhost:3000/.
 
 
 
-🔧 How to Use
+## 🔧 How to Use
 
 Add Contact: Click the "Add Contact" button and fill in the form.
 
@@ -89,7 +89,7 @@ Delete Contact: Click the delete button to remove a contact.
 
 Search Contact: Use the search bar to find a contact quickly.
 
-📌 Contributing
+## 📌 Contributing
 
 Contributions are welcome! Feel free to:
 
